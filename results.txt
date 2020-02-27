@@ -1,0 +1,15 @@
+Total numbers: 10000 | Pause: 3 | Repeats: 10 | Version: Multi-Thread 
+MACHINE: 
+PROCESSOR_ARCHITECTURE_ARM
+Page size: 2000371832
+		AVG		MIN		MAX
+		314		150		173
+		127		125		125
+		147		125		125
+		715		132		125
+		180		125		125
+		127		125		125
+		160		157		172
+		156		127		128
+		163		229		125
+		141		125		125
