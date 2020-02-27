@@ -1,0 +1,11 @@
+Total numbers: 10000 | Pause: 3 | Repeats: 5 | Version: Single-Thread 
+MACHINE: 
+PROCESSOR_ARCHITECTURE_ARM
+Page size: 2000371832
+		EXECUTION TIME
+		443
+		363
+		364
+		380
+		380
+		364
